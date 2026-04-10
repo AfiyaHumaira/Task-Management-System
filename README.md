@@ -6,11 +6,11 @@ A web-based **Task Management System** designed to help users efficiently create
 
 ## 🚀 Features
 
-•	Develop a basic Task Management System using HTML, CSS, and JavaScript.
-•	To store and manage task data in JSON format.
-•	To implement CRUD operations (Create, Read, Update, Delete) for task management.
-•	To use Local Storage for data persistence, ensuring tasks remain after a page refresh.
-•	To enhance user interaction with a dynamic and responsive UI.
+-	Develop a basic Task Management System using HTML, CSS, and JavaScript.
+-	Store and manage task data in JSON format.
+-	Implement CRUD operations (Create, Read, Update, Delete) for task management.
+-	Use Local Storage for data persistence, ensuring tasks remain after a page refresh.
+-	Enhance user interaction with a dynamic and responsive UI.
 
 
 ---
