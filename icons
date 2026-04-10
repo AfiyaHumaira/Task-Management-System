@@ -1,0 +1,7 @@
+<script>start("e:\\Protfolio\\icons\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("cms.png","cms.png",0,17207,"16.8 kB",1743671959,"4/3/25, 3:19:19 PM");</script>
+<script>addRow("seo.png","seo.png",0,15047,"14.7 kB",1743671930,"4/3/25, 3:18:50 PM");</script>
+<script>addRow("ui-ux.png","ui-ux.png",0,18243,"17.8 kB",1743671905,"4/3/25, 3:18:25 PM");</script>
+<script>addRow("web-apps.png","web-apps.png",0,21418,"20.9 kB",1743671987,"4/3/25, 3:19:47 PM");</script>
+<script>addRow("web-development.png","web-development.png",0,20331,"19.9 kB",1743671842,"4/3/25, 3:17:22 PM");</script>

@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f9;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: #186bc4;
+}
+input, button {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+input {
+    width: calc(100% - 24px);
+    display: block;
+}
+button {
+    background-color: #0968d5;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: white;
+    border-radius: 5px;
+    overflow: hidden;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #0b2b4d;
+    color: white;
+}
+.completed {
+    background-color: #d4edda;
+}
+.incomplete {
+    background-color: #f8d7da;
+}
+.btn-toggle {
+    background-color: #28a745;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn-delete {
+    background-color: #dc3545;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
