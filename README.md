@@ -24,17 +24,18 @@ A web-based **Task Management System** designed to help users efficiently create
 - CSS3
 - JavaScript
 
-**Backend:**
-- PHP
-
-**Database:**
-- MySQL
-
 **Tools & Platforms:**
-- XAMPP / WAMP
 - Git & GitHub
 - VS Code
 
 ---
+---
 
-## 📂 Project Structure
+📸 Screenshots
+Demo task
+<img width="936" height="576" alt="image" src="https://github.com/user-attachments/assets/ca25384a-6adf-49b5-9ade-68c4e291e3a5" />
+
+
+
+
+
